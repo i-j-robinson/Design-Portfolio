@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: IBMPlexSans-Bold, 'IBM Plex Sans';
+        font-size: 36px;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M50,22.47c-22.06,0-40,17.96-40,40.03s17.94,40.03,40,40.03,40-17.96,40-40.03S72.06,22.47,50,22.47Zm0,78.05c-20.95,0-38-17.06-38-38.03S29.05,24.47,50,24.47s38,17.06,38,38.03-17.05,38.03-38,38.03Z"/>
+  <text class="cls-1" transform="translate(38.93 75.06)"><tspan x="0" y="0">3</tspan></text>
+</svg>

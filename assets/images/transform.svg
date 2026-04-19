@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="68px" viewBox="0 0 69 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transform</title>
+    <g id="Medium" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Study" transform="translate(-139.000000, -1886.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="transform" transform="translate(139.000000, 1886.000000)">
+                <polygon id="Path" points="35 0 25 17 45 17"></polygon>
+                <polygon id="Path" points="51 50 69 50 69 68 51 68"></polygon>
+                <circle id="Oval" cx="9" cy="59" r="9"></circle>
+                <g id="Group" transform="translate(7.000000, 13.000000)" stroke="#000000" stroke-width="3">
+                    <path d="M2.12489488,33.8606557 C-2.53501677,20.7271926 3.648431,6.23080533 16.3898775,0.418032787 L17.2938942,2.37547645 C5.57172182,7.72373028 -0.117337021,21.0603349 4.16895903,33.1436713 L2.12489488,33.8606557 Z" id="Path"></path>
+                    <path d="M28.0822481,50.5819117 C24.3692069,50.5894395 20.6952104,49.8318339 17.2938942,48.3572724 L18.1572242,46.4016393 C24.2710331,49.0348847 31.1962467,49.1291394 37.3808431,46.66328 L38.1894166,48.6418853 C34.9786269,49.9291874 31.546262,50.5880147 28.0822481,50.5819117 L28.0822481,50.5819117 Z" id="Path"></path>
+                    <path d="M54.5656862,33.0245902 L52.4891869,32.3905965 C55.9125673,21.0751168 50.9997486,8.89656945 40.6968792,3.15825813 L41.7504985,1.25409836 C52.9483829,7.49022805 58.2875941,20.7268165 54.5656862,33.0245902 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
