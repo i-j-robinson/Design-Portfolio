@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="68px" viewBox="0 0 67 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iconmonstr-fullscreen-2</title>
+    <g id="LeverEdge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Study" transform="translate(-822.000000, -428.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="iconmonstr-fullscreen-2" transform="translate(822.000000, 428.500000)">
+                <path d="M59.6714529,51.8859167 L67,44.6666667 L67,67 L44.3285471,67 L51.6570943,59.78075 L37,45.34225 L45.0143586,37.4474167 L59.6714529,51.8859167 L59.6714529,51.8859167 Z M21.9856414,29.5525833 L30,21.65775 L15.3429057,7.21925 L22.6714529,0 L0,0 L0,22.3333333 L7.32854714,15.1140833 L21.9856414,29.5525833 Z M51.6570943,7.21925 L44.3285471,-1.77635684e-15 L67,-1.77635684e-15 L67,22.3333333 L59.6714529,15.1140833 L45.0143586,29.5525833 L37,21.65775 L51.6570943,7.21925 L51.6570943,7.21925 Z M30,45.34225 L21.9856414,37.4474167 L7.32854714,51.8859167 L0,44.6666667 L0,67 L22.6714529,67 L15.3429057,59.78075 L30,45.34225 L30,45.34225 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
