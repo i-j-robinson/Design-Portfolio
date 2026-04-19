@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Market Basket Case Study</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+   <link href="assets/css/bootstrap-4.4.1.css" rel="stylesheet">
+</head>
+
+<body>
+<nav class="navbar navbar-expand-xl navbar-light bg-white fixed-top justify-content-between" style="height: 60px;">
+  <div class="d-inline-flex" >
+    <ul class="nav navbar-nav d-inline-flex">
+      <li class="nav-item">
+        <ul class="list-inline pr-sm-5">
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="index.html"> IJR.DESIGN </a></li>
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="LeverEdge-CaseStudy.html">LeverEdge</a></li>
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="Medium-CaseStudy.html">Medium</a></li>
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="Market-Basket-CaseStudy.html">Market Basket</a></li>
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="about-me.html">About</a></li>
+			<li class="list-inline-item nav-item nav-mobile"> <a class="nav-link" href="about-me.html">Resume</a></li>
+                  
+        </ul>
+      </li>
+    </ul>
+    
+  </div>
+</nav>
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			<img src=""
+		
+		</div>
+	</div>
+	
+</div>
+</body>
